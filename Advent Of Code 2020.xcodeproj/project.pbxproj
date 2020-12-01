@@ -32,6 +32,7 @@
 		4A4262F625767ABE00785CB7 /* Unit Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Unit Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A4262F825767ABE00785CB7 /* day01_tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day01_tests.swift; sourceTree = "<group>"; };
 		4A4262FA25767ABE00785CB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A4263052576877D00785CB7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 		4A4262CD2576788900785CB7 = {
 			isa = PBXGroup;
 			children = (
+				4A4263052576877D00785CB7 /* README.md */,
 				4A4262D82576788900785CB7 /* Advent Of Code 2020 */,
 				4A4262F725767ABE00785CB7 /* Unit Tests */,
 				4A4262D72576788900785CB7 /* Products */,
