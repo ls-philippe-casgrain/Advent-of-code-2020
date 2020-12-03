@@ -14,6 +14,9 @@
 		4AEA409425787A9B0065612C /* day02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA409325787A9B0065612C /* day02.swift */; };
 		4AEA409625787AE80065612C /* day02_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA409525787AE80065612C /* day02_tests.swift */; };
 		4AEA409725787B970065612C /* day02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA409325787A9B0065612C /* day02.swift */; };
+		4AEA40992578AAB10065612C /* day03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA40982578AAB10065612C /* day03.swift */; };
+		4AEA409A2578AAB60065612C /* day03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA40982578AAB10065612C /* day03.swift */; };
+		4AEA409C2578AAC30065612C /* day03_test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA409B2578AAC30065612C /* day03_test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +41,8 @@
 		4A4263052576877D00785CB7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4AEA409325787A9B0065612C /* day02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day02.swift; sourceTree = "<group>"; };
 		4AEA409525787AE80065612C /* day02_tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day02_tests.swift; sourceTree = "<group>"; };
+		4AEA40982578AAB10065612C /* day03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day03.swift; sourceTree = "<group>"; };
+		4AEA409B2578AAC30065612C /* day03_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day03_test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +88,7 @@
 				4A4262D92576788900785CB7 /* main.swift */,
 				4A4262EF25767A4700785CB7 /* day01.swift */,
 				4AEA409325787A9B0065612C /* day02.swift */,
+				4AEA40982578AAB10065612C /* day03.swift */,
 			);
 			path = "Advent Of Code 2020";
 			sourceTree = "<group>";
@@ -92,6 +98,7 @@
 			children = (
 				4A4262F825767ABE00785CB7 /* day01_tests.swift */,
 				4AEA409525787AE80065612C /* day02_tests.swift */,
+				4AEA409B2578AAC30065612C /* day03_test.swift */,
 				4A4262FA25767ABE00785CB7 /* Info.plist */,
 			);
 			path = "Unit Tests";
@@ -188,6 +195,7 @@
 				4A4262DA2576788900785CB7 /* main.swift in Sources */,
 				4A4262F025767A4700785CB7 /* day01.swift in Sources */,
 				4AEA409425787A9B0065612C /* day02.swift in Sources */,
+				4AEA40992578AAB10065612C /* day03.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,7 +204,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A4262F925767ABE00785CB7 /* day01_tests.swift in Sources */,
+				4AEA409C2578AAC30065612C /* day03_test.swift in Sources */,
 				4A42630025767D2000785CB7 /* day01.swift in Sources */,
+				4AEA409A2578AAB60065612C /* day03.swift in Sources */,
 				4AEA409725787B970065612C /* day02.swift in Sources */,
 				4AEA409625787AE80065612C /* day02_tests.swift in Sources */,
 			);
