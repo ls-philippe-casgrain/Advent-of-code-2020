@@ -17,6 +17,10 @@
 		4A4C8C51257B4AC400229A8A /* day05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C8C50257B4AC400229A8A /* day05.swift */; };
 		4A4C8C52257B4AC400229A8A /* day05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C8C50257B4AC400229A8A /* day05.swift */; };
 		4A4C8C54257B4AE400229A8A /* day05_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C8C53257B4AE400229A8A /* day05_tests.swift */; };
+		4A4C8C56257C9DE200229A8A /* day06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C8C55257C9DE200229A8A /* day06.swift */; };
+		4A4C8C57257C9DE200229A8A /* day06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C8C55257C9DE200229A8A /* day06.swift */; };
+		4A4C8C59257C9DF500229A8A /* day06_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C8C58257C9DF500229A8A /* day06_tests.swift */; };
+		4A4C8C5A257C9DF500229A8A /* day06_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4C8C58257C9DF500229A8A /* day06_tests.swift */; };
 		4AEA409425787A9B0065612C /* day02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA409325787A9B0065612C /* day02.swift */; };
 		4AEA409625787AE80065612C /* day02_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA409525787AE80065612C /* day02_tests.swift */; };
 		4AEA409725787B970065612C /* day02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEA409325787A9B0065612C /* day02.swift */; };
@@ -49,6 +53,8 @@
 		4A456F382579FB470029054A /* day04_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day04_test.swift; sourceTree = "<group>"; };
 		4A4C8C50257B4AC400229A8A /* day05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day05.swift; sourceTree = "<group>"; };
 		4A4C8C53257B4AE400229A8A /* day05_tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day05_tests.swift; sourceTree = "<group>"; };
+		4A4C8C55257C9DE200229A8A /* day06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day06.swift; sourceTree = "<group>"; };
+		4A4C8C58257C9DF500229A8A /* day06_tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day06_tests.swift; sourceTree = "<group>"; };
 		4AEA409325787A9B0065612C /* day02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day02.swift; sourceTree = "<group>"; };
 		4AEA409525787AE80065612C /* day02_tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day02_tests.swift; sourceTree = "<group>"; };
 		4AEA40982578AAB10065612C /* day03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day03.swift; sourceTree = "<group>"; };
@@ -101,6 +107,7 @@
 				4AEA40982578AAB10065612C /* day03.swift */,
 				4A456F332579F9D70029054A /* day04.swift */,
 				4A4C8C50257B4AC400229A8A /* day05.swift */,
+				4A4C8C55257C9DE200229A8A /* day06.swift */,
 			);
 			path = "Advent Of Code 2020";
 			sourceTree = "<group>";
@@ -113,6 +120,7 @@
 				4AEA409B2578AAC30065612C /* day03_test.swift */,
 				4A456F382579FB470029054A /* day04_test.swift */,
 				4A4C8C53257B4AE400229A8A /* day05_tests.swift */,
+				4A4C8C58257C9DF500229A8A /* day06_tests.swift */,
 				4A4262FA25767ABE00785CB7 /* Info.plist */,
 			);
 			path = "Unit Tests";
@@ -208,7 +216,9 @@
 			files = (
 				4A4262DA2576788900785CB7 /* main.swift in Sources */,
 				4A4262F025767A4700785CB7 /* day01.swift in Sources */,
+				4A4C8C59257C9DF500229A8A /* day06_tests.swift in Sources */,
 				4AEA409425787A9B0065612C /* day02.swift in Sources */,
+				4A4C8C56257C9DE200229A8A /* day06.swift in Sources */,
 				4A456F342579F9D70029054A /* day04.swift in Sources */,
 				4AEA40992578AAB10065612C /* day03.swift in Sources */,
 				4A4C8C51257B4AC400229A8A /* day05.swift in Sources */,
@@ -225,7 +235,9 @@
 				4A42630025767D2000785CB7 /* day01.swift in Sources */,
 				4A456F392579FB470029054A /* day04_test.swift in Sources */,
 				4A4C8C52257B4AC400229A8A /* day05.swift in Sources */,
+				4A4C8C5A257C9DF500229A8A /* day06_tests.swift in Sources */,
 				4AEA409A2578AAB60065612C /* day03.swift in Sources */,
+				4A4C8C57257C9DE200229A8A /* day06.swift in Sources */,
 				4A4C8C54257B4AE400229A8A /* day05_tests.swift in Sources */,
 				4AEA409725787B970065612C /* day02.swift in Sources */,
 				4AEA409625787AE80065612C /* day02_tests.swift in Sources */,
