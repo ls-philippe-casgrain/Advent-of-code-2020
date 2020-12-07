@@ -21,7 +21,7 @@ struct PassportBatch {
             let hcl = passport.contains("hcl:")
             let byr = passport.contains("byr:")
             let iyr = passport.contains("iyr:")
-            let cid = passport.contains("cid:")
+            let _ = passport.contains("cid:")
             let hgt = passport.contains("hgt:")
 
             if ecl && pid && eyr && hcl && byr && iyr && hgt {
