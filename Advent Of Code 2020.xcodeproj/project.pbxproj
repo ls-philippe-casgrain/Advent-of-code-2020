@@ -10,6 +10,9 @@
 		4A23D02125887D0B00321F28 /* day15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A23D02025887D0B00321F28 /* day15.swift */; };
 		4A23D02225887D0B00321F28 /* day15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A23D02025887D0B00321F28 /* day15.swift */; };
 		4A23D02625887DF700321F28 /* day15_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A23D02525887DF700321F28 /* day15_tests.swift */; };
+		4A3D0E6C2589CE640026316F /* day16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D0E6B2589CE640026316F /* day16.swift */; };
+		4A3D0E6D2589CE640026316F /* day16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D0E6B2589CE640026316F /* day16.swift */; };
+		4A3D0E712589CEE00026316F /* day16_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D0E702589CEE00026316F /* day16_tests.swift */; };
 		4A4262DA2576788900785CB7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4262D92576788900785CB7 /* main.swift */; };
 		4A4262F025767A4700785CB7 /* day01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4262EF25767A4700785CB7 /* day01.swift */; };
 		4A4262F925767ABE00785CB7 /* day01_tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A4262F825767ABE00785CB7 /* day01_tests.swift */; };
@@ -71,6 +74,8 @@
 /* Begin PBXFileReference section */
 		4A23D02025887D0B00321F28 /* day15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day15.swift; sourceTree = "<group>"; };
 		4A23D02525887DF700321F28 /* day15_tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day15_tests.swift; sourceTree = "<group>"; };
+		4A3D0E6B2589CE640026316F /* day16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day16.swift; sourceTree = "<group>"; };
+		4A3D0E702589CEE00026316F /* day16_tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day16_tests.swift; sourceTree = "<group>"; };
 		4A4262D62576788900785CB7 /* Advent Of Code 2020 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Advent Of Code 2020"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A4262D92576788900785CB7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4A4262EF25767A4700785CB7 /* day01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day01.swift; sourceTree = "<group>"; };
@@ -162,6 +167,7 @@
 				4A87E4EF2585D92D00153C89 /* day13.swift */,
 				4A87E4F82587280600153C89 /* day14.swift */,
 				4A23D02025887D0B00321F28 /* day15.swift */,
+				4A3D0E6B2589CE640026316F /* day16.swift */,
 			);
 			path = "Advent Of Code 2020";
 			sourceTree = "<group>";
@@ -184,6 +190,7 @@
 				4A87E4F42585D9B500153C89 /* day13_tests.swift */,
 				4A87E4FD2587281900153C89 /* day14_tests.swift */,
 				4A23D02525887DF700321F28 /* day15_tests.swift */,
+				4A3D0E702589CEE00026316F /* day16_tests.swift */,
 				4A4262FA25767ABE00785CB7 /* Info.plist */,
 			);
 			path = "Unit Tests";
@@ -288,6 +295,7 @@
 				4A4C8C56257C9DE200229A8A /* day06.swift in Sources */,
 				4A87E4E7258481C100153C89 /* day12.swift in Sources */,
 				4A87E4F92587280600153C89 /* day14.swift in Sources */,
+				4A3D0E6C2589CE640026316F /* day16.swift in Sources */,
 				4A456F342579F9D70029054A /* day04.swift in Sources */,
 				4AEA40992578AAB10065612C /* day03.swift in Sources */,
 				4A4C8C51257B4AC400229A8A /* day05.swift in Sources */,
@@ -304,6 +312,7 @@
 				4A87E4432583340F00153C89 /* day11_tests.swift in Sources */,
 				4A456F352579F9D70029054A /* day04.swift in Sources */,
 				4A5146A12580920300F91171 /* day09_tests.swift in Sources */,
+				4A3D0E712589CEE00026316F /* day16_tests.swift in Sources */,
 				4A23D02225887D0B00321F28 /* day15.swift in Sources */,
 				4A87E43F2583340100153C89 /* day11.swift in Sources */,
 				4A8F9AF2257DED9D00A5941D /* day07_tests.swift in Sources */,
@@ -327,6 +336,7 @@
 				4A87E4FE2587281900153C89 /* day14_tests.swift in Sources */,
 				4AEA409725787B970065612C /* day02.swift in Sources */,
 				4A87E3662581E47D00153C89 /* day10_tests.swift in Sources */,
+				4A3D0E6D2589CE640026316F /* day16.swift in Sources */,
 				4AEA409625787AE80065612C /* day02_tests.swift in Sources */,
 				4A87E4F12585D92D00153C89 /* day13.swift in Sources */,
 				4A8F9AF0257DED8500A5941D /* day07.swift in Sources */,
